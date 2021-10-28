@@ -1,0 +1,14 @@
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.exe
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.deps.json
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.runtimeconfig.json
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.runtimeconfig.dev.json
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.dll
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\bin\Debug\netcoreapp3.1\28.10.2021mthd.pdb
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.AssemblyInfo.cs
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.dll
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.pdb
+C:\Users\kadir\source\repos\28.10.2021mthd\28.10.2021mthd\obj\Debug\netcoreapp3.1\28.10.2021mthd.genruntimeconfig.cache
